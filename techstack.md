@@ -32,8 +32,8 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEsparto1/java1](https://github.com/DotEsparto1/java1)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|8<br/>Tools used|22<br/>Contributors|11/08/23 <br/>Report generated|03/06/23<br/>Last commit date|
-|------|------|------|------|
+|8<br/>Tools used|11/09/23 <br/>Report generated|
+|------|------|
 </div>
 
 ## <img src='https://img.stackshare.io/languages.svg'/> Languages (2)
